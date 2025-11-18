@@ -5,3 +5,16 @@ Shorten the software development lifecycle
 Increase deployment frequency
 
 Improve reliability and collaboration
+ 
+
+ Faster software delivery
+
+Improved deployment frequency
+
+Better collaboration (Dev + Ops)
+
+Reduced errors and downtime
+
+Automated workflows
+
+Continuous monitoring & feedback
