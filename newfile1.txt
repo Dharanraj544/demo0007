@@ -1,0 +1,7 @@
+DevOps is a combination of Development and Operations practices that aims to:
+
+Shorten the software development lifecycle
+
+Increase deployment frequency
+
+Improve reliability and collaboration
